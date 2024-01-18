@@ -6,8 +6,8 @@ This is a simple weather application that fetches weather information using the 
 - [Features](#features)
 - [Setup](#setup)
 - [Usage](#usage)
-- [Preview](#preview)
 - [Technologies Used](#technologiesused)
+- [Preview](#preview)
 - [Connect with Me](#connectwithme)
 
 ## Features
